@@ -144,20 +144,9 @@ http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 
 
 ########################################################     ADULT       ########################################################
-
-
-{
-		"name": "ADULT",
-		"author": "TIM",
-		"image":"https://cdn6.porngif.cc/picture/original/nUE0pUZ6Yl90nUIgLaZlYaWyMTqcMaZhL_9gY09vMJEcMJ50G3WhLKEyDJquoJRgp_1uoTjhM_yzXFfbXSOipz5UFHLhL_ZcK_9vMJEcMJ50o3WhLKEyLJquoJRgp_1uoTjhM_yz/(PornGIF.cc)_skye-blue-playboy-pornstar-big-tits-small.gif",
-		"url": "https://github.com/atim2515/atim2515/blob/main/ADULT",
-		 
- 
-		"stations":[
     
     
-#EXTINF:-1 tvg
-{"name":"AdultIPTV.net MILF",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_ADULT.png" group-titlr="ADULT" tvg-id="Bokep", BOKEP 1
 http://cdn.adultiptv.net/milf.m3u8
 
 #EXTINF:-1 tvg
