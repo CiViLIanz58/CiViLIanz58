@@ -152,7 +152,8 @@ http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CIVILIANZ.png" group-title="ADULT" tvg-id="Bokep", BIGDICK
 http://cdn.adultiptv.net/bigdick.m3u8
 
-{"name":"AdultIPTV.net Big Tits",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/bigtits.m3u8"},
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CiViLIanz.png" group-title="ADULT" tvg-id="Bokep", BIGTITS
+http://cdn.adultiptv.net/bigtits.m3u8
 
 {"name":"AdultIPTV.net Fetish",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/fetish.m3u8"},
 
