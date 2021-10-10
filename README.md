@@ -155,13 +155,19 @@ http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CiViLIanz.png" group-title="ADULT" tvg-id="Bokep", BIGTITS
 http://cdn.adultiptv.net/bigtits.m3u8
 
-{"name":"AdultIPTV.net Fetish",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/fetish.m3u8"},
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CiViLIanz.png" group-title="ADULT" tvg-id="Bokep", FETISH
+http://cdn.adultiptv.net/fetish.m3u8
 
-{"name":"AdultIPTV.net Pornstar",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/pornstar.m3u8"},
 
-{"name":"AdultIPTV.net Big Ass",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/bigass.m3u8"},
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CiViLIanz.png" group-title="ADULT" tvg-id="Bokep", PORNSTAR
+http://cdn.adultiptv.net/pornstar.m3u8
 
-{"name":"AdultIPTV.net Interracial",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/interracial.m3u8"},
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CiViLIanz.png" group-title="ADULT" tvg-id="Bokep", BIGASS
+http://cdn.adultiptv.net/bigass.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images/channel/logo_CiViLIanz.png" group-title="ADULT" tvg-id="Bokep", INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
 
 {"name":"AdultIPTV.net Latina",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/latina.m3u8"},
 
