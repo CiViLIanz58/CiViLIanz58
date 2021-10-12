@@ -128,6 +128,8 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/kplus.png" group-title="Entertaiment" tvg-id="K+", K+
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK Samsung",Samsung UK: Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 ########################################################     Knowledge     ########################################################
 
@@ -182,7 +184,14 @@ http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign
 http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzA6MzMgQU0maGFzaF92YWx1ZT1Ia29XQmpZZEJsTENuU2VWbkFZTnd3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sports" tvg-id="beIN Sport 1 Premium", beIN Sport 1 Premium
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK Samsung",Samsung UK: EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannelUK.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="UK Samsung",Samsung UK: Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="UK Samsung",Samsung UK: Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="UK Samsung",Samsung UK: Fuel TV
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 ########################################################     ADULT       ########################################################
@@ -353,85 +362,5 @@ http://cdn.adultiptv.net/interracial.m3u8
     
 ]
 }
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="UK Samsung",Samsung UK: Bloomberg TV+ UHD
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK Samsung",Samsung UK: Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="UK Samsung",Samsung UK: CNN International UK
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK Samsung",Samsung UK: Comedy Channel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Dust.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="UK Samsung",Samsung UK: Dust
-https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK Samsung",Samsung UK: EDGEsport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="UK Samsung",Samsung UK: Euronews English
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEngland.fr" tvg-country="FR" tvg-language="" tvg-logo="" group-title="UK Samsung",Samsung UK: Fashion TV (England)
-https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="UK Samsung",Samsung UK: FilmStreams
-https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FTFForthefans.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="UK Samsung",Samsung UK: FTF For the fans
-https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="UK Samsung",Samsung UK: Fuel TV
-https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="UK Samsung",Samsung UK: Gusto TV
-https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="UK Samsung",Samsung UK: Horse and Country
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="UK Samsung",Samsung UK: Insight TV
-https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWild.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="UK Samsung",Samsung UK: InWild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="UK Samsung",Samsung UK: InWonder
-https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="UK Samsung",Samsung UK: MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK Samsung",Samsung UK: PBS America
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetKnowledge.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/U8GADbT.jpg" group-title="UK Samsung",Samsung UK: Planet Knowledge
-https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="UK Samsung",Samsung UK: Players TV
-https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="UK Samsung",Samsung UK: Qello Concerts by Stingray
-https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaUK.es" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="UK Samsung",Samsung UK: Rakuten TV Drama UK
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="UK Samsung",Samsung UK: Rakuten TV Spotlight UK
-https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RealStories.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/TVfuBfJ.jpg" group-title="UK Samsung",Samsung UK: Real Stories
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SofyTV.ch" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="UK Samsung",Samsung UK: Sofy TV
-https://sofytv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SparkTv.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vTGknv3.png" group-title="UK Samsung",Samsung UK: Spark Tv
-https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsChannelNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ytimg.com/vi/2FtbPXeYTvo/maxresdefault.jpg" group-title="UK Samsung",Samsung UK: Sports Channel Network
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="UK Samsung",Samsung UK: Stingray Karaoke
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="UK Samsung",Samsung UK: Tastemade
-https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="UK Samsung",Samsung UK: Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannelUK.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="UK Samsung",Samsung UK: Tennis Channel (UK)
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollectiveEngland.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="UK Samsung",Samsung UK: The Pet Collective UK
-https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TimeLine.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK Samsung",Samsung UK: Time Line
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Toongoggles.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="UK Samsung",Samsung UK: Toongoggles
-https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="UK Samsung",Samsung UK: Travel XP
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="UK Samsung",Samsung UK: VENN
-https://venntv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK Samsung",Samsung UK: Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 
 
