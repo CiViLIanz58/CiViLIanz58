@@ -455,8 +455,75 @@ http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/62038
 http://linea.cc:8000/test123/test123/56506.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: SKY SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/318788
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: DAZN SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/391223
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: DAZN SPORT 2 HD
+http://qqtv.nl:8080/glista/glista/391222
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: TELEKOM BUNDESLIGA 1 HD
+http://qqtv.nl:8080/glista/glista/15611
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: TELEKOM BUNDESLIGA 2 HD
+http://qqtv.nl:8080/glista/glista/15619
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: TELEKOM BUNDESLIGA 3 HD
+http://qqtv.nl:8080/glista/glista/335066
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: TELEKOM BUNDESLIGA 4 HD
+http://qqtv.nl:8080/glista/glista/335067
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: TELEKOM BUNDESLIGA 5 HD
+http://qqtv.nl:8080/glista/glista/335068
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: DE: SKY SPORT BUNDESLIGA 3
+http://qqtv.nl:8080/glista/glista/318792
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SERIEN & SHOWS
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7232
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN BAR 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7259
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN BAR 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7261
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7262
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7263
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7264
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7266
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7268
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 8 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7269
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 9 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7270
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 10 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7271
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7272
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7274
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7275
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 8 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7279
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 9 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7280
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 10 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7281
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7285
 
 
 
