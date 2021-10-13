@@ -307,61 +307,6 @@ http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228709
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BT Sport ESPN FHD
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228717
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228718
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN 2
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228719
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN Deportes
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228720
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228721
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN U
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228722
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN 4K
-http://hnksy.com:80/1117678/8FMtnrXgps/138905
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN
-http://hnksy.com:80/1117678/8FMtnrXgps/138906
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN 2 HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138907
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN 3
-http://hnksy.com:80/1117678/8FMtnrXgps/138908
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN Deportes HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138909
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN News US HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138910
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN plus
-http://hnksy.com:80/1117678/8FMtnrXgps/138911
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN U HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138912
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Soccer Plus
-http://hnksy.com:80/1117678/8FMtnrXgps/138918
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: FOX Sports 1 HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138919
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: FOX Sports 2 HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138920
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Arizona HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138921
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: FOX SPORTS Carolina HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138922
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: FOX SPORTS DEPORTES HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138923
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Detroit HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138924
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Florida HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138925
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports North HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138926
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: FOX SPORTS PRIME TICKET HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138927
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Racing HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138928
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Sun HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138929
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Tennessee HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138930
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fox Sports Wisconsin HD
-http://hnksy.com:80/1117678/8FMtnrXgps/138931
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Bein Sports HD
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61930
@@ -369,16 +314,7 @@ http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61930
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61931
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BeIN LaLiga HD
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61932
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BeIN Sports 4 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61933
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BeIN Sports 5 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61934
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BeIN Sports 6 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61935
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BeIN Sports 7 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61936
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BeIN Sports 8 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61937
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN 1 HD
 http://s1.urhdiptv.net:8080/mma2/45212156/68094
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN 2 HD
@@ -393,53 +329,17 @@ http://s1.urhdiptv.net:8080/mma2/45212156/68090
 http://s1.urhdiptv.net:8080/mma2/45212156/68089
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN 7 HD
 http://s1.urhdiptv.net:8080/mma2/45212156/68088
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN 8 HD
-http://s1.urhdiptv.net:8080/mma2/45212156/68087
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN 9 HD
-http://s1.urhdiptv.net:8080/mma2/45212156/68086
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN 10 HD
-http://s1.urhdiptv.net:8080/mma2/45212156/68085
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: BEIN SPORTS HD
 http://s1.urhdiptv.net:8080/mma2/45212156/68084
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: MSG (Match Time)
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61938
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: MSG+
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61939
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: MSG2 (Match Time)
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61940
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: MSG+2 (Match Time)
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61941
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: YES Network
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61942
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Fubo Sports Network
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61943
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: GINX Sports
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61944
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Espn 1 HD
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61945
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Espn 2 HD
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61946
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Espn U HD
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61947
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Espn News HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61948
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Espn Deportes
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61949
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN ACC Network
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61950
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN College Extra 1 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61951
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN College Extra 2 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61952
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN College Extra 3 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61953
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN College Extra 4 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61954
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN College Extra 5 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61955
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: ESPN College Extra 6 HD
-http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/61956
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",HLS Cat: US: Tennis Channel HD
 http://tveo.xyz:8000/CARLOSROMERO/romeroromerocarlos/62034
@@ -492,40 +392,73 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7264
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7265
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 5 HD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7266
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 6 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7267
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 7 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7268
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 8 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7269
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 9 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7270
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 10 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7271
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7272
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7273
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7274
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7275
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7276
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7277
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7278
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 8 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7279
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 9 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7280
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 10 HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7281
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7285
 
 
+
+#######################################################Sneh Hindi############################################
+
+
+
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/54739/54739/1072.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/54739/54739/2167.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 1 HD 1
+http://watchindia.net:8880/live/54739/54739/808.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 1 HD 2
+http://watchindia.net:8880/live/54739/54739/2162.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 1 HD 3
+http://watchindia.net:8880/live/54739/54739/2186.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 1 HD 4
+http://watchindia.net:8880/live/54739/54739/2232.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 2 HD 1
+http://watchindia.net:8880/live/54739/54739/1069.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports 2 HD 2
+http://watchindia.net:8880/live/54739/54739/2163.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports Select 1 HD
+http://watchindia.net:8880/live/54739/54739/1070.ts
+#EXTINF:-1 group-title="Sneh Hindi",Star Sports Select 2 HD
+http://watchindia.net:8880/live/54739/54739/1071.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports Main Event
+http://watchindia.net:8880/live/54739/54739/2091.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports Cricket 2
+http://watchindia.net:8880/live/54739/54739/2143.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports Football
+http://watchindia.net:8880/live/54739/54739/2093.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports F1
+http://watchindia.net:8880/live/54739/54739/2094.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports Arena
+http://watchindia.net:8880/live/54739/54739/2095.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports Golf
+http://watchindia.net:8880/live/54739/54739/2096.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sony Six HD 1
+http://watchindia.net:8880/live/54739/54739/1763.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sony Six HD 2
+http://watchindia.net:8880/live/54739/54739/2144.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/54739/54739/1756.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/54739/54739/2215.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sony Ten 2 HD
+http://watchindia.net:8880/live/54739/54739/1757.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sony Ten 3 HD
+http://watchindia.net:8880/live/54739/54739/1758.ts
+#EXTINF:-1 group-title="Sneh Hindi",Ten Sports
+http://watchindia.net:8880/live/54739/54739/1068.ts
+#EXTINF:-1 group-title="Sneh Hindi",Willow HD
+http://watchindia.net:8880/live/54739/54739/1067.ts
+#EXTINF:-1 group-title="Sneh Hindi",Willow HD 2
+http://watchindia.net:8880/live/54739/54739/2145.ts
+#EXTINF:-1 group-title="Sneh Hindi",Sky Sports Premier League
+http://watchindia.net:8880/live/54739/54739/2092.ts
 
 ########################################################     ADULT       ########################################################
     
