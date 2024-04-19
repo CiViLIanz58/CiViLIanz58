@@ -29,7 +29,7 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Local" tvg-id="GTV V+", GTV V+
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png" group-title="Local" tvg-id="RCTI V+", RCTI V+
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-Perjuangan-avc1_499968=5-mp4a_98800_eng=3.m3u8
+http://fastserver.my.id:8080/play/LNppGCiteaNmgaHPGoNS_kXxmE6Uv3RfqFTKDmZBA-M/m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ow7qv1pi5cq9itc/mnc_id_tv.png" group-title="Local" tvg-id="MNC TV V+", MNC TV V+
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_499968=5-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local" tvg-id="Indosiar Backup", Indosiar Backup
