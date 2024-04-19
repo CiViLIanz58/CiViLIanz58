@@ -1,47 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Nasional" tvg-id="Kompas TV", Kompas TV
 http://210.210.155.35/session/20bda120-186e-11ec-9731-bee29a261415/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Nasional" tvg-id="Kompas TV Backup", Kompas TV Backup
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu6OhAZ6ApfBm6Fo-i9JtaGo/m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="Nasional" tvg-id="CNN Indonesia", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1879540144_b384000_sleng.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu8EWBeKIcbb10Cu_SlKmSGs/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Nasional" tvg-id="Berita Satu", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Nasional" tvg-id="Berita Satu Backup", Berita Satu Backup
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvuwFiBjbX4_i0gJBZNeZSJO0/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Nasional" tvg-id="TVRI", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Nasional" tvg-id="TVRI Backup", TVRI Backup
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu9J4UE3PuT-Ii7TPRbdPr9s/m3u8
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="Nasional" tvg-id="CNBC Indonesia", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w18248186_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Nasional" tvg-id="Metro TV", Metro TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu5VF_1QWaFJ02gu2O9HUp3o/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Nasional" tvg-id="TVONE", TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Nasional" tvg-id="INews", INews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu2DVhrInhBKYa0UD4UbpiB8/m3u8
 
 ########################################################     Local     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local" tvg-id="Indosiar V+", Indosiar V+
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu3BFyCsBrXz7ocsz7HSyhKo/m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Local" tvg-id="GTV V+", GTV V+
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_98800_eng=3.m3u8
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_98800_eng=3.m3u8 http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu-JhI_j2mftKDSb1yI3ppiY/m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png" group-title="Local" tvg-id="RCTI V+", RCTI V+
 http://fastserver.my.id:8080/play/LNppGCiteaNmgaHPGoNS_kXxmE6Uv3RfqFTKDmZBA-M/m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ow7qv1pi5cq9itc/mnc_id_tv.png" group-title="Local" tvg-id="MNC TV V+", MNC TV V+
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_499968=5-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local" tvg-id="Indosiar Backup", Indosiar Backup
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu1NHIeLMOkJURZ_LVCDjmQs/m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local" tvg-id="Indosiar", Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu3BFyCsBrXz7ocsz7HSyhKo/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Local" tvg-id="ANTV", ANTV
 http://210.210.155.35/session/62243934-186f-11ec-8c03-be12bd09f87c/qwr9ew/s/s07/01.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvuy32V6g8qqWm-inKcrHM6c8/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Local" tvg-id="ANTV Backup", ANTV Backup
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Local" tvg-id="SCTV", SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Local" tvg-id="SCTV Backup", SCTV Backup
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+http://fastserver.my.id:8080/play/CqninXLNyA7BTQQvQJOvu2-I9SwOR5NioQwgljQ1xDc/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Local" tvg-id="Trans 7", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Local" tvg-id="Trans TV V+", Trans TV V+
